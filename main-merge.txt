@@ -1,3 +1,4 @@
 Hello from main
 Hello from branch
 Edited for rebase test
+Edited for stashing test
